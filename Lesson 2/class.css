@@ -1,0 +1,39 @@
+.target1 {
+
+    background: orangered;
+    height: 20px;
+    box-sizing: border-box;
+    padding: 2px;
+
+}
+
+.target2 {
+
+    background: grey;
+    height: 50px;
+    box-sizing: border-box;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.target3 {
+
+    background: blue;
+    height: 70px;
+
+}
+
+.target4 {
+
+    background: lightgreen;
+    height: 120px;
+    width: 120px;
+}
+
+.target5 {
+
+    background: lightslategray;
+    height: 120px;
+    width: 120px;
+    border-radius: 10px;
+}
