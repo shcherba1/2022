@@ -9,6 +9,8 @@ box-sizing: border-box;
     padding: 10px;
     border: 1px solid grey;
     box-shadow: dimgray 10px 10px 0px 0px;
+    margin: 15px;
+    text-align: center;
 }
 
 .target2 {
@@ -22,6 +24,8 @@ box-sizing: border-box;
     padding: 10px;
     border: 1px solid grey;
     box-shadow: dimgray 10px 10px 5px 0px;
+    margin: 15px;
+    text-align: center;
 }
 
 .target3 {
@@ -35,6 +39,8 @@ box-sizing: border-box;
     padding: 10px;
     border: 1px solid grey;
     box-shadow: dimgray 10px 10px 5px 5px;
+    margin: 15px;
+    text-align: center;
 }
 
 .target4 {
@@ -48,6 +54,8 @@ box-sizing: border-box;
     padding: 10px;
     border: 1px solid grey;
     box-shadow: lightgray 10px 10px 5px 5px;
+    margin: 15px;
+    text-align: center;
 }
 
 .target5 {
@@ -62,6 +70,8 @@ box-sizing: border-box;
     border: 1px solid grey;
     border-radius: 5px;
     box-shadow: dimgray 10px 10px 5px 0px;
+    margin: 15px;
+    text-align: center;
 }
 
 .target6 {
@@ -76,4 +86,6 @@ box-sizing: border-box;
     border: 1px solid grey;
     border-radius: 5px;
     box-shadow: lightgray 10px 10px 5px 0px;
+    margin: 15px;
+    text-align: center;
 }

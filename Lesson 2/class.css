@@ -1,15 +1,17 @@
 .target1 {
 
-    background: orangered;
-    height: 20px;
+    background: #8a2928;
+
     box-sizing: border-box;
-    padding: 2px;
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+
 
 }
 
 .target2 {
 
-    background: grey;
+    background: #c0c0c0;
     height: 50px;
     box-sizing: border-box;
     padding: 10px 10px 10px 10px;
@@ -18,21 +20,22 @@
 
 .target3 {
 
-    background: blue;
+    background: #6496ec;
     height: 70px;
-
+    box-sizing: border-box;
+    padding: 15px 0px 15px 0px;
 }
 
 .target4 {
 
-    background: lightgreen;
+    background: #6cba68;
     height: 120px;
     width: 120px;
 }
 
 .target5 {
 
-    background: lightslategray;
+    background: #8987ac;
     height: 120px;
     width: 120px;
     border-radius: 10px;
