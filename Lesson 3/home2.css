@@ -1,0 +1,51 @@
+.A {
+    background: #e6f7b1;
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    margin: 10px 10px 10px 10px;
+
+}
+
+.B {
+    background: #ffb7ff;
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 300px;
+    width: 150px;
+    text-align: center;
+    line-height: 300px;
+
+}
+
+.C {
+    background: #a0e2ff;
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 145px;
+    text-align: center;
+    line-height: 145px;
+
+}
+
+.D {
+    background: #a0e2ff;
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 145px;
+    text-align: center;
+    line-height: 145px;
+
+}
+.E {
+    background: #ffffca;
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 100px;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    line-height: 145px;
+
+}
