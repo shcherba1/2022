@@ -38,10 +38,23 @@ body {
     background: #18467b;
     height: 50%;
     width: 100%;
-    margin-top: 15px;
-
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: auto;
 }
 
+#containerF {
+    margin: auto;
+}
+
+#containerG {
+    margin: auto;
+}
+
+#containerH {
+    margin: auto;
+}
 
 .brd-r-10 {
     border-radius: 10px;
@@ -53,6 +66,10 @@ body {
 
 .w200 {
     width: 200px;
+}
+
+.w150 {
+    width: 150px;
 }
 
 .bgr-dark {
@@ -72,3 +89,13 @@ color: #18467b;
     color: silver;
     text-align: center;
 }
+
+.q4 {
+    color: silver;
+    text-align: center;
+}
+
+.round {
+    border-radius: 50%;
+}
+
