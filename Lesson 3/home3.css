@@ -12,7 +12,7 @@
     height: 100px;
     text-align: center;
     line-height: 100px;
-    margin: 0px 0px 5px 0px;
+    margin: 0 0 5px 0;
 }
 
 .B {
@@ -22,7 +22,7 @@
     width: 900px;
     text-align: center;
     line-height: 100px;
-    margin: 0px 0px 5px 0px;
+    margin: 0 0 5px 0;
 }
 
 .C {
