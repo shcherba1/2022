@@ -1,0 +1,57 @@
+#container {
+    column-gap: 10px;
+    justify-content: flex-start;
+}
+
+#container1 {
+    flex-direction: column;
+    row-gap: 10px;
+    width: 100%;
+}
+
+#container, #container1 {
+    display: flex;
+}
+
+.A, .E, #container {
+    margin: 10px 10px 10px 10px;
+}
+
+.A, .B, .C, .D, .E {
+    box-sizing: border-box;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.A, .E {
+    height: 100px;
+    line-height: 100px;
+}
+
+.C, .D {
+    height: 145px;
+    line-height: 145px;
+}
+
+.A {
+    background: #e6f7b1;
+}
+
+.B {
+    background: #ffb7ff;
+    height: 300px;
+    width: 150px;
+    line-height: 300px;
+}
+
+.C {
+    background: #a0e2ff;
+}
+
+.D {
+    background: #a0e2ff;
+}
+
+.E {
+    background: #ffffca;
+}
